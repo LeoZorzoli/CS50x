@@ -1,6 +1,6 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-I'm Leo Zorzoli, a Argentinian 🇦🇷 Web Developer. This is the list of my projects for the course CS50: Introduction to Computer Science. I Take this course from April to June 2020
+I'm Leo Zorzoli, an Argentinian 🇦🇷 Web Developer. This is the list of my projects for the course CS50: Introduction to Computer Science. I Take this course from April to June 2020
 
 <a href="https://cs50.harvard.edu/x/2021/">
   Link to CS50x course 
