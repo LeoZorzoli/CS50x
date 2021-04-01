@@ -18,18 +18,8 @@ Introduction to the intellectual enterprises of computer science and the art of 
 </div>
 
 ### List of my Projects
-<ul>
-  <li>:dollar: PSET 1 - 2020 Course version <a href="https://github.com/LeoZorzoli/CS50x/tree/master/pset1">Github</a></li>
-  <li>:page_facing_up: PSET 2 - 2020 Course version <a href="https://github.com/LeoZorzoli/CS50x/tree/master/Pset2">Github</a></li>
-  <li>:busts_in_silhouette: PSET 3 - 2020 Course version <a href="https://github.com/LeoZorzoli/CS50x/tree/master/pset3">Github</a></li>
-  <li>:minidisc: PSET 4 - 2020 Course version <a href="https://github.com/LeoZorzoli/CS50x/tree/master/pset4">Github</a></li>
-  <li>:scroll: PSET 5 - 2020 Course version <a href="https://github.com/LeoZorzoli/CS50x/tree/master/pset5/speller">Github</a></li>
-  <li>:closed_book: PSET 6 - 2020 Course version <a href="https://github.com/LeoZorzoli/CS50x/tree/master/pset6">Github</a></li>
-  <li>:movie_camera: PSET 7 - 2020 Course version <a href="https://github.com/LeoZorzoli/CS50x/tree/master/pset7">Github</a></li>
-</ul>
 
-
-### List of my Projects
+<center>
 
 | Week | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
@@ -42,3 +32,5 @@ Introduction to the intellectual enterprises of computer science and the art of 
 | 7    | SQL              | [Pset7](Pset7)             |
 | 8    | Information      | [WebTrack](WebTrack)       |
 | 8    | Information      | [GameTrack](GameTrack)     |
+
+</center>
