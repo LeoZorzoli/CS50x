@@ -1,0 +1,45 @@
+body
+{
+    background-color: #f8f9fa;
+}
+
+.title
+{
+    font-style:italic;
+}
+
+.principal
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.navbar
+{
+    background-color: white !important;
+    margin-left:200px;
+    margin-right:200px;
+
+}
+
+.cine
+{
+    display: inline-block;
+}
+
+#program
+{
+    padding-top:10px;
+}
+
+#me
+{
+    margin-top:25px;
+    border-radius:10%;
+}
+
+form
+{
+    margin-top:5px;
+}
