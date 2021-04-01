@@ -21,8 +21,6 @@ Introduction to the intellectual enterprises of computer science and the art of 
 
 ### List of my Projects
 
-<div align="center">
-
 | Week | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
 | 1    | C                | [Pset1](Pset1)             |
@@ -35,4 +33,4 @@ Introduction to the intellectual enterprises of computer science and the art of 
 | 8    | Information      | [WebTrack](WebTrack)       |
 | 8    | Information      | [GameTrack](GameTrack)     |
 
-</div>
+
