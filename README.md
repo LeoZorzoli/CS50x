@@ -17,9 +17,11 @@ Introduction to the intellectual enterprises of computer science and the art of 
   <a href="https://online-learning.harvard.edu/instructor/david-j-malan">Instructor: David J. Malan </a>
 </div>
 
+
+
 ### List of my Projects
 
-<center>
+<div align="center">
 
 | Week | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
@@ -33,4 +35,4 @@ Introduction to the intellectual enterprises of computer science and the art of 
 | 8    | Information      | [WebTrack](WebTrack)       |
 | 8    | Information      | [GameTrack](GameTrack)     |
 
-</center>
+</div>
