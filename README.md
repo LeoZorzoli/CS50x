@@ -31,6 +31,5 @@ Introduction to the intellectual enterprises of computer science and the art of 
 | 6    | Python           | [Pset6](Pset6)             |
 | 7    | SQL              | [Pset7](Pset7)             |
 | 8    | Information      | [WebTrack](WebTrack)       |
-| 8    | Information      | [GameTrack](GameTrack)     |
 
 
